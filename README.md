@@ -9,7 +9,7 @@
 
   <h2 align="center">Animated React Logo</h2>
 
-  In this project, I have created Animated React Logo, <br />The project is built using HTML5 & CSS3.
+  In this project, I have created Animated React Logo, The project is built using HTML5 & CSS3.
 
   <a href="https://geeky-prashant.github.io/animated-react-logo/"><strong>➥ Live Demo</strong></a>
 
